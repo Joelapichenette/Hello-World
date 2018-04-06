@@ -1,3 +1,3 @@
-# Hello-World
+# Pi 2018
 First repository
-a bit about yourself (we told me to do so)
+(inutile en soi)
